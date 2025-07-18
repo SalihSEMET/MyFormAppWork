@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ardışık Sayı Toplam", "Ardışık Sayı Toplam\Ardışık Sayı Toplam.csproj", "{1839AE30-63B3-4A55-BE4B-E431B69CA795}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do_While_Loops", "Do_While_Loops\Do_While_Loops.csproj", "{5EBCDD93-8E93-4F47-9634-132280DEA3B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{1839AE30-63B3-4A55-BE4B-E431B69CA795}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1839AE30-63B3-4A55-BE4B-E431B69CA795}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1839AE30-63B3-4A55-BE4B-E431B69CA795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBCDD93-8E93-4F47-9634-132280DEA3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBCDD93-8E93-4F47-9634-132280DEA3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBCDD93-8E93-4F47-9634-132280DEA3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBCDD93-8E93-4F47-9634-132280DEA3B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
